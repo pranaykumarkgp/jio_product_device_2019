@@ -7,6 +7,6 @@
   
 - Dataset
   - Please download the movie lens small data set [Movie Lens Small](http://files.grouplens.org/datasets/movielens/ml-latest-small.zip).
-    go to [Movie Lens](https://grouplens.org/datasets/movielens/). to understand more about the data set.
+  - go to [Movie Lens](https://grouplens.org/datasets/movielens/). to understand more about the data set.
       
 - Evaluation
