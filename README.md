@@ -10,21 +10,37 @@ git clone https://github.com/iitrsamrat/jio_product_device_2019.git
 ### People who are not comming for specific role can attempt any one problem from below.
 
 Q1. SoftWare Developer/DB Developer/Big Data Developer
-  - Details:
+  - Problem Details
+
+  - Dataset
+  
+  - Evaluation 
+
 
 Q2. Knowledge Search / NLP
-  - Details
+  - Problem Details
+  
+  - Dataset
+  
+  - Evaluation 
+
   
 Q3. Computer Vision
-  - Details
+  - Problem Details
+  
+  - Dataset
+  
+  - Evaluation 
 
 Q4. Recommendation
-  - Details
+  - Problem Details
+  One needs to build a recommendation model using any recommendation algorithm of their choice.
+  
   - Dataset
       - Please download the movie lens small data set [Movie Lens Small](http://files.grouplens.org/datasets/movielens/ml-latest-small.zip).
       go to [Movie Lens](https://grouplens.org/datasets/movielens/). to understand more about the data set.
-    One needs to build a recommendation model using any recommendation algorithm of their choice.
+      
+  - Evaluation
     
- - Evaluation 
  
     
