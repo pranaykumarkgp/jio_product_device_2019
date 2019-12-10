@@ -21,8 +21,8 @@ Q3. Computer Vision
 Q4. Recommendation
   - Details
   - Dataset
-      - Please download the movie lens small data set [Movie Lens Small] (http://files.grouplens.org/datasets/movielens/ml-latest-small.zip).
-      go to [Movie Lens] (https://grouplens.org/datasets/movielens/) to understand more about the data set.
+      - Please download the movie lens small data set [Movie Lens Small](http://files.grouplens.org/datasets/movielens/ml-latest-small.zip).
+      go to [Movie Lens](https://grouplens.org/datasets/movielens/). to understand more about the data set.
     One needs to build a recommendation model using any recommendation algorithm of their choice.
     
  - Evaluation 
