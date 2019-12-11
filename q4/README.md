@@ -1,4 +1,4 @@
-### You can choose to code recommendation in Python or JAVA  
+### You can choose to code Recomender System in Python or JAVA
 ### Allthough only Python version of how to read the dataset and what API needs to be developed is provided. 
 ### How to read the dataset and API to develope is available in python folder
 ### Data is available in data folder
