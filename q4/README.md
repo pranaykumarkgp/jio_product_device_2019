@@ -4,7 +4,7 @@
 ### Data is available in data folder
 
 - Problem Details
-  One needs to build a Top n (n is parameter) User Collaborative recommendation model using any recommendation algorithm of their choice.
+  - One needs to build a Top n (n is parameter) User Collaborative recommendation model using any recommendation algorithm of their choice.
   
 - Dataset
   - The Data set is taken from [Movie Lens Small](http://files.grouplens.org/datasets/movielens/ml-latest-small.zip).
