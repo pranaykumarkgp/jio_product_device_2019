@@ -6,12 +6,13 @@ git clone https://github.com/iitrsamrat/jio_product_device_2019.git
 # Jio Product Devices 2019 - Questions
 
 ### Attempt only one question as per below guidlines. 
+#### Max time : 2.30 hours
 
 - Software Developer can choose to solve among Q1, Q2.
 - Big Data/DB Developer
 - Data Scientist (Generic) Can attempt to solve among Q2, Q3, Q4
-- Data Scientist (Vision) has to solve Q3 
-- Data Scientist (Recommendation) has to solve Q4 
+- Data Scientist (Vision) solve Q3 
+- Data Scientist (Recommendation) solve Q4 
 
 - Its ok to Copy paste code from Internet as long as one able to explain all the logic line by line
 
