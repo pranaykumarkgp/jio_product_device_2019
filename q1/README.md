@@ -8,12 +8,12 @@ The problem is to implement an auto fill algorithm for the data set such that, t
 
 Say a sample dataset has the below data:
 
-Q: What is the population of India?
-Rank: 3
-Q: What is the population of Indonesia?
-Rank: 1
-Q: Who is the Indian PM?
-Rank: 2
+Q: What is the population of India?<br>
+Rank: 3<br>
+Q: What is the population of Indonesia?<br>
+Rank: 1<br>
+Q: Who is the Indian PM?<br>
+Rank: 2<br>
 
 A query for the string 'ind' has to be result in (has to be ordered by rank):
 
