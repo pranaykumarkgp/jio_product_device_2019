@@ -2,6 +2,8 @@
 ### How to read the dataset and API to develope is available in respective python java folder
 ### Data is available in data folder
 
+#### Credit: The dataset is prepared using [Squad 2.0](https://rajpurkar.github.io/SQuAD-explorer/)
+
 - Problem Details: You are given a list of questions and ranks associated with each question
 
 The problem is to implement an auto fill algorithm for the data set such that, the search query may match beginning of the words anywhere in the question
@@ -22,6 +24,11 @@ Who is the Indian PM?<br>
 What is the population of India?<br>
 
 A query for the string 'population of' gives:
+
+What is the population of Indonesia?<br>
+What is the population of India?<br>
+
+A query for the string 'what is' gives:
 
 What is the population of Indonesia?<br>
 What is the population of India?<br>
