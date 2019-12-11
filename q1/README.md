@@ -1,6 +1,6 @@
 ### You can choose to code in python or java
-### How to read the dataset and API to develope is available in respective python java folder
-### Data is available in data folder
+#### How to read the dataset and API to develope is available in java and python (you can modify as you wish, output should be same as expected.
+#### Data is available in data folder
 
 #### Credit: The dataset is prepared using [Squad 2.0](https://rajpurkar.github.io/SQuAD-explorer/)
 
@@ -38,6 +38,6 @@ A query for the string 'pulation' gives no output
 - Dataset: is available in the data folder
 
 - Evaluation: Time 500 ms per query
-              Max memory usage 512 MB
+  - Max memory usage 512 MB
   
   
