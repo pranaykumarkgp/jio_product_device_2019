@@ -17,14 +17,14 @@ Rank: 2<br>
 
 A query for the string 'ind' has to be result in (has to be ordered by rank):
 
-What is the population of Indonesia?
-Who is the Indian PM?
-What is the population of India?
+What is the population of Indonesia?<br>
+Who is the Indian PM?<br>
+What is the population of India?<br>
 
 A query for the string 'population of' gives:
 
-What is the population of Indonesia
-What is the population of India
+What is the population of Indonesia?<br>
+What is the population of India?<br>
 
 A query for the string 'pulation' gives no output
   
