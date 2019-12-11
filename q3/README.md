@@ -12,10 +12,11 @@
   - Run the model on a live video URL for real-time recognition and detection.
   
 - Write the following API
-  - def detect_faces(img):
-      list_ = []
-      return list_ # Contains tuple of the bounding boxes. Ex. ()
-- Dataset
+  - Refer to the code of face_detector_live_video.py (for how to get frames of youtube live)
+  - API for static images
+    - def detect_and_draw_faces(image)
+
+- Dataset 
   - Train set - 15 celebrities, Aprox 100 each
   - Test set - 8 images (multi-face)
 
