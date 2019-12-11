@@ -5,11 +5,11 @@ git clone https://github.com/iitrsamrat/jio_product_device_2019.git
 
 # Jio Product Devices 2019 - Questions
 
-### Attempt only one question as per your role. 
+### Attempt only one question as per below guidlines. 
 
-- Software Developer can choose to solve Q1, Q2 anyone of them.
+- Software Developer can choose to solve among Q1, Q2.
 - Big Data/DB Developer
-- Data Scientist (Generic) Can attempt any one from Q2, Q3, Q4
+- Data Scientist (Generic) Can attempt to solve among Q2, Q3, Q4
 - Data Scientist (Vision) has to solve Q3 
 - Data Scientist (Recommendation) has to solve Q4 
 
