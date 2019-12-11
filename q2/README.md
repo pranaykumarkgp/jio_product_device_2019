@@ -9,11 +9,11 @@
     Object id;
   }
 
-  Python
-  # Given a search (Question) one needs to output top n (1-10) relavant documnents
-    - def search(query)
+  - Python
+    - Given a search (Question) one needs to output top n (1-10) relavant documnents
+      - def search(query)
     
-  Java
+  - Java
     - public List<Doc> search(String query)
   
 
