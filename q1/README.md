@@ -17,23 +17,20 @@ Rank: 1<br>
 Q: Who is the Indian PM?<br>
 Rank: 2<br>
 
-A query for the string 'ind' has to be result in (has to be ordered by rank):
+- A query for the string 'what is' gives:
+  - What is the population of Indonesia?<br>
+  - What is the population of India?<br>
 
-What is the population of Indonesia?<br>
-Who is the Indian PM?<br>
-What is the population of India?<br>
+- A query for the string 'ind' has to be result in (has to be ordered by rank):
+  - What is the population of Indonesia?<br>
+  - Who is the Indian PM?<br>
+  - What is the population of India?<br>
 
-A query for the string 'population of' gives:
+- A query for the string 'population of' gives:
+  - What is the population of Indonesia?<br>
+  - What is the population of India?<br>
 
-What is the population of Indonesia?<br>
-What is the population of India?<br>
-
-A query for the string 'what is' gives:
-
-What is the population of Indonesia?<br>
-What is the population of India?<br>
-
-A query for the string 'pulation' gives no output
+A query for the string 'plation' gives no output as this is not a substring of any query 
   
 - Dataset: is available in the data folder
 
