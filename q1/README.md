@@ -6,7 +6,13 @@
 
 - Problem Details: You are given a list of questions and ranks associated with each question
 
-The problem is to implement an auto fill algorithm for the data set such that, the search query may match beginning of the words anywhere in the question
+- The problem is to implement an auto search fill algorithm, please try google 
+- google search is contextual 
+- this is in my word preogressive seach
+- search what
+- search what is
+- search what is the 
+  - result changes have you ever thought how, heree is a chance implement them
 
 Say a sample dataset has the below data:
 
