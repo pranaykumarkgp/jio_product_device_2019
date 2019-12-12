@@ -21,7 +21,8 @@
 Every questions answers are avialable in one or more Documents,build a solution which finds apporiate document and rank as per thier relevancy scores. 
 
 - Dataset
-    - Refer nlp_hackathon_search.gz file.   
+    - Refer nlp_hackathon_search.gz file.  
+    - The dataset is prepared using Squad 2.0
 - Evaluation
     - Your score is the percentage of documennt_id which are correctly predicted for a given questions, also know as accuracy.
   
