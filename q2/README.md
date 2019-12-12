@@ -1,5 +1,5 @@
 ### You can choose to code in python or java
-### Data is available in data folder
+
 
 - API Details which needes to be coded
 
