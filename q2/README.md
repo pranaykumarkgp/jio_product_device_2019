@@ -1,5 +1,4 @@
 ### You can choose to code in python or java
-### How to read the dataset and API to develope is available in respective python java folder
 ### Data is available in data folder
 
 - API Details which needes to be coded
@@ -10,7 +9,7 @@
   }
 
   - Python
-    - Given a search (Question) one needs to output top n (1-10) relavant documnents
+    - Given a search (Question) one needs to output top n (1-10) relavant documnent_id
       - def search(query)
     
   - Java
@@ -18,10 +17,12 @@
   
 
 - Problem Details
-  
+Welcome to NLP Search hackathon.Given the data set with "document","question","title","document_id" attributes,One has to build a sophisticated document search system for the given question.
+Every questions answers are avialable in one or more Document,build a solution which finds a apporiate document and rank as per thier relevancy scores. 
+
 - Dataset
-      
+  refer nlp_hackathon_search.gz file.   
 - Evaluation
-  
+  Your score is the percentage of documennt_id which are correctly predicted for a given questions, also know as accuracy.
   
  
