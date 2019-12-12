@@ -11,7 +11,7 @@ git clone https://github.com/iitrsamrat/jio_product_device_2019.git
 
 - Software Developer can choose to solve among Q1, Q2, Q6.
 - Big Data/DB Developer Q5, Q6
-- Data Scientist (search/nlp) must solve Q2, its good if you additionally solve Q6
+- Data Scientist (search/nlp) must solve Q2, its good if you additionally solve Q6 also
 - Data Scientist (Generic) Can attempt to solve among Q2, Q3, Q4, Q5, Q6
 - Data Scientist (Vision) solve Q3 
 - Data Scientist (Recommendation) solve Q4 
