@@ -24,18 +24,7 @@ git clone https://github.com/iitrsamrat/jio_product_device_2019.git
 
 ### Please visit respective directory of questions to get the details
 
-Q1. SoftWare Developer/DB Developer/Big Data Developer
- 
 
-Q2. Knowledge Search / NLP
- 
-
-  
-Q3. Computer Vision
- 
-
-Q4. Recommendation
-    
  
 Best Of Luck :+1: 
     
