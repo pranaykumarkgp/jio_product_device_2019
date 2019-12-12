@@ -6,7 +6,8 @@
   - Personality detection and Recognition
     - There are 15 celebrities' images in "vision_hackathon_drive.zip" in respective folders.
     - Build a personality detection and recognition model to detect a multi-face/multi-personality image (single image multiple face/personality) such as in validation set "vision_hackathon_drive_val.zip"
-    - It is possible that some images might not contain any face.
+    - It is possible that some images might not contain any face/person.. 
+    
   - Run the model on a live video URL for real-time recognition and detection.
   
 - Write the following API
