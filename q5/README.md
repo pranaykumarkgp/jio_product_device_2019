@@ -40,3 +40,11 @@ date ^ top_products<br>
 
 
 here top_product has 3 pairs in both rows. Pairs like [1,500] are of form [product_id,total_revenue]
+
+
+<h4>Bonus:</h4>
+Add another column to output called "total_revenue_N" which is the total revenue of the top N products.
+
+
+
+
