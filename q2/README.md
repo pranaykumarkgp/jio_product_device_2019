@@ -18,7 +18,7 @@
 
 - Problem Details
   - Welcome to NLP Search hackathon.Given the data set with "document","question","title","document_id" attributes,One has to build a sophisticated document search system for the given question.
-Every questions answers are avialable in one or more Document,build a solution which finds a apporiate document and rank as per thier relevancy scores. 
+Every questions answers are avialable in one or more Documents,build a solution which finds apporiate document and rank as per thier relevancy scores. 
 
 - Dataset
     - Refer nlp_hackathon_search.gz file.   
