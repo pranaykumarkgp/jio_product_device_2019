@@ -14,7 +14,7 @@ Big Data/Data Base Problem
 
 
 <h4>Requirement:</h4>
-You need to save top N (where N is a parameter) products_ids and their total revenue for each day.
+You need to save top N (where N is a parameter) products_ids and their total revenue for each day.Consider orders with status "complete" or "closed" only.
 Ranking for a day is decided based on the total revenue of that product on that day.
 
 
