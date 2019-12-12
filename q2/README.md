@@ -17,12 +17,12 @@
   
 
 - Problem Details
-  -Welcome to NLP Search hackathon.Given the data set with "document","question","title","document_id" attributes,One has to build a sophisticated document search system for the given question.
+  - Welcome to NLP Search hackathon.Given the data set with "document","question","title","document_id" attributes,One has to build a sophisticated document search system for the given question.
 Every questions answers are avialable in one or more Document,build a solution which finds a apporiate document and rank as per thier relevancy scores. 
 
 - Dataset
-    -refer nlp_hackathon_search.gz file.   
+    - Refer nlp_hackathon_search.gz file.   
 - Evaluation
-    -Your score is the percentage of documennt_id which are correctly predicted for a given questions, also know as accuracy.
+    - Your score is the percentage of documennt_id which are correctly predicted for a given questions, also know as accuracy.
   
  
