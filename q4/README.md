@@ -6,11 +6,11 @@
 - Problem Details
   - One needs to build a Top n (n is parameter) recommendation model using any recommendation algorithm of their choice.
   
-  - API
+  - <h5>API</h5>
   You need to build 2 APIs :
   <ul>
-  <li>Take userid and an integer N as input and display N movie reccomendations for that user.</li>
   <li>Take userid and movieid as input and predict the rating for the movie by the user</li>
+  <li>Take userid and an integer N as input and display N movie reccomendations for that user.</li>
   </ul>
   
   ### Finally generate the predicted ratings for (userid,movieid) pairs mentioned in input_for_validation.csv
