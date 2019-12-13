@@ -43,7 +43,25 @@ here top_product has 3 pairs in both rows. Pairs like [1,500] are of form [produ
 
 
 <h4>Bonus:</h4>
-Add another column to output called "total_revenue_N" which is the total revenue of the top N products.
+Add another column to output called "total_revenue_N" which is the total revenue of the top N products for the day.
+Change "top_product" column from earlier to include a ratio which is (total revenue of that product / total revenue of top n products)
+in [product_id,product_revenue_of_day,ratio]
+
+
+
+
+<h5>Sample:</h5>
+
+input N=3<br>
+output:<br><br>
+date ^ top_products ^ total_revenue_N<br>
+27-07-2013 ^ [[1,500,0.26],[2,600,0.31],[5,800,0.42]] ^ 1900 <br>    
+28-07-2013 ^ [[4,600,0.26],[5,800,0.34],[7,900,0.39]] ^ 2300 <br>
+
+Here, for 27-07-2013 for top 3 products the "total_revenue"= 500 + 600 + 800 = 1900
+
+The first entry in top products [1,500,0.26] represents product=id 1 ,its total revenue for day 500 and 0.26 is the ratio of its revenue with total revenue of N products for the day (500/1900).
+
 
 
 
